@@ -64,48 +64,48 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted descending by GitHub Star count.*
+*Sorted descending by GitHub Stars_Count.*
 
-- **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
+- **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
   The industry-standard open-source secrets engine. Go-based. Provides dynamic secrets (minting short-lived unique credentials), PKI engine, transit data encryption, and extensive plugin architecture. **Trade-off**: Requires dedicated operational overhead for HA clustering and unseal procedures.
 
-- **[Infisical](https://github.com/Infisical/infisical)** [![GitHub stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)  
+- **[Infisical](https://github.com/Infisical/infisical)** [![GitHub_Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)  
   The leading modern open-source secrets platform. Self-hostable without artificial usage caps. Features dynamic credentials, secret leak scanning, PKI/SSH certificate management, and Access Request approval workflows. Includes developer-friendly CLI, SDKs, and Kubernetes operators.
 
-- **[SOPS (Secrets OPerationS)](https://github.com/getsops/sops)** [![GitHub stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)  
+- **[SOPS (Secrets OPerationS)](https://github.com/getsops/sops)** [![GitHub_Stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)  
   Editor for encrypted files supporting YAML, JSON, ENV, INI, and BINARY formats. Encrypts values while keeping keys unencrypted. Integrates with AWS KMS, GCP KMS, Azure Key Vault, Age, and PGP. Ideal for storing encrypted secrets directly in Git repositories.
 
-- **[git-secrets (AWS Labs)](https://github.com/awslabs/git-secrets)** [![GitHub stars](https://img.shields.io/github/stars/awslabs/git-secrets?style=social&color=white)](https://github.com/awslabs/git-secrets/stargazers)  
+- **[git-secrets (AWS Labs)](https://github.com/awslabs/git-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/git-secrets?style=social&color=white)](https://github.com/awslabs/git-secrets/stargazers)  
   CLI tool that prevents accidental commits of credentials, API keys, and passwords by scanning staged files and commit messages against configurable regex patterns.
 
-- **[Sealed Secrets (Bitnami)](https://github.com/bitnami-labs/sealed-secrets)** [![GitHub stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)  
+- **[Sealed Secrets (Bitnami)](https://github.com/bitnami-labs/sealed-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)  
   Kubernetes-native secret encryption for GitOps. Encrypts Kubernetes Secrets into `SealedSecret` custom resources that are safe to store in public version control and can only be decrypted by the controller running inside the cluster.
 
-- **[aws-vault (99designs)](https://github.com/99designs/aws-vault)** [![GitHub stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)  
+- **[aws-vault (99designs)](https://github.com/99designs/aws-vault)** [![GitHub_Stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)  
   Secure CLI credential manager for AWS developers. Stores long-term AWS credentials in operating system keychains (macOS Keychain, Windows Credential Manager, Secret Service) and generates temporary STS credentials for shell sessions.
 
-- **[OpenBao](https://github.com/openbao/openbao)** [![GitHub stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
+- **[OpenBao](https://github.com/openbao/openbao)** [![GitHub_Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
   Community-driven open-source fork of HashiCorp Vault under Linux Foundation governance. Focuses on maintaining an open, MPL-2.0 licensed secrets vault ecosystem for dynamic secrets, transit encryption, and PKI.
 
-- **[gopass](https://github.com/gopasspw/gopass)** [![GitHub stars](https://img.shields.io/github/stars/gopasspw/gopass?style=social&color=white)](https://github.com/gopasspw/gopass/stargazers)  
+- **[gopass](https://github.com/gopasspw/gopass)** [![GitHub_Stars](https://img.shields.io/github/stars/gopasspw/gopass?style=social&color=white)](https://github.com/gopasspw/gopass/stargazers)  
   Terminal-based team password and secret manager written in Go. Uses GPG or Age encryption with Git synchronization, enabling tree-structured password vaults with granular team sharing.
 
-- **[External Secrets Operator](https://github.com/external-secrets/external-secrets)** [![GitHub stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
+- **[External Secrets Operator](https://github.com/external-secrets/external-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
   Kubernetes operator that integrates external secret management systems (Vault, AWS Secrets Manager, GCP Secret Manager, Azure Key Vault, 1Password) into native Kubernetes `Secret` resources.
 
-- **[git-secret](https://github.com/sobolevn/git-secret)** [![GitHub stars](https://img.shields.io/github/stars/sobolevn/git-secret?style=social&color=white)](https://github.com/sobolevn/git-secret/stargazers)  
+- **[git-secret](https://github.com/sobolevn/git-secret)** [![GitHub_Stars](https://img.shields.io/github/stars/sobolevn/git-secret?style=social&color=white)](https://github.com/sobolevn/git-secret/stargazers)  
   Bash-based CLI tool to store private data inside Git repositories. Uses GPG encryption to encrypt sensitive files so only authorized committers can decrypt them.
 
-- **[Teller](https://github.com/tellerops/teller)** [![GitHub stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)  
+- **[Teller](https://github.com/tellerops/teller)** [![GitHub_Stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)  
   A portable secrets manager for developers. Pulls, syncs, and injects environment variables across multiple secret providers (AWS, HashiCorp Vault, 1Password, Doppler, dotenv) into application processes without writing secrets to disk.
 
-- **[Blackbox (StackExchange)](https://github.com/StackExchange/blackbox)** [![GitHub stars](https://img.shields.io/github/stars/StackExchange/blackbox?style=social&color=white)](https://github.com/StackExchange/blackbox/stargazers)  
+- **[Blackbox (StackExchange)](https://github.com/StackExchange/blackbox)** [![GitHub_Stars](https://img.shields.io/github/stars/StackExchange/blackbox?style=social&color=white)](https://github.com/StackExchange/blackbox/stargazers)  
   VCS-agnostic secret management using GPG subkeys. Safely encrypts specific files in Git, Mercurial, or SVN repositories for deployment automation and developer collaboration.
 
-- **[SPIRE (SPIFFE Runtime Environment)](https://github.com/spiffe/spire)** [![GitHub stars](https://img.shields.io/github/stars/spiffe/spire?style=social&color=white)](https://github.com/spiffe/spire/stargazers)  
+- **[SPIRE (SPIFFE Runtime Environment)](https://github.com/spiffe/spire)** [![GitHub_Stars](https://img.shields.io/github/stars/spiffe/spire?style=social&color=white)](https://github.com/spiffe/spire/stargazers)  
   Reference implementation of the SPIFFE APIs. Provides zero-trust cryptographic workload identity across multi-cloud and container environments, solving the root identity bootstrapping problem for secrets access.
 
-- **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)  
+- **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)  
   Open-source secrets management engine featuring declarative Policy-as-Code (YAML), mTLS Kubernetes authenticators, and JWT authentication for CI/CD pipelines (GitHub Actions, GitLab CI).
 
 ---
@@ -116,7 +116,7 @@ Contributions are warmly welcome! Help us keep this directory accurate, comprehe
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in `README.md` following the existing tabular and list formats.
-3. 🔒 Provide factual details (Name, link, description, pricing, free limits, or star counts).
+3. 🔒 Provide factual details (Name, link, description, pricing, free limits, or Stars_Counts).
 4. 🚀 Open a Pull Request with a clear summary of changes.
 
 Check out our reference awesome list: [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
